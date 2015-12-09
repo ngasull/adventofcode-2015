@@ -1,0 +1,23 @@
+{
+  "name": "adventofcode-2015",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-es2015": "^6.3.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngasull/adventofcode-2015.git"
+  },
+  "author": "Nicolas Gasull",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngasull/adventofcode-2015/issues"
+  },
+  "homepage": "https://github.com/ngasull/adventofcode-2015#readme"
+}
