@@ -71,4 +71,5 @@ let lshift = (w1, w2) =>
 let rshift = (w1, w2) =>
     getValue(w1) >>> getValue(w2)
 
+// signalMap['b'].value = 46065
 console.log("Got it:", getValue('a'))
